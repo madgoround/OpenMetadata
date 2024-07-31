@@ -1,1 +1,43 @@
-
+/* @import '/node_modules/react-grid-layout/css/styles.css';
+@import '/node_modules/react-resizable/css/styles.css';
+ */
+body {
+    font-size: 0.9rem;
+}
+.ant-typography {
+    color: #676a71;
+}
+.text-grey-muted {
+  }
+tbody.ant-table-tbody {
+    font-size: 13px;
+}
+.markdown-parser .toastui-editor-contents p {
+ color: #676a71;
+}
+.toastui-editor-contents p {
+    color: #676a71;
+}
+.summary-item-key {
+    color: #676a71;
+    font-size: 13px;
+}
+.left-sidebar-col .left-sidebar-menu.ant-menu .ant-menu-item .left-panel-item .anticon svg {
+    font-size: 30px;
+}
+.left-sidebar-col .left-sidebar-menu.ant-menu .ant-menu-submenu .ant-menu-submenu-title .left-panel-item .anticon svg {
+    font-size: 30px;
+}
+.ant-menu-item .anticon, .ant-menu-submenu-title .anticon {
+    margin: 0 6px;
+}
+[data-testid="entity-header-display-name"] {
+    font-weight: 600;
+    letter-spacing: -0.5px;
+}
+.description-text {
+    color: #8b8b8b;
+}
+.summary-panel-container .summary-panel-section-title {
+    font-size: 13px;
+}
